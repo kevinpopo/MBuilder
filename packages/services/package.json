@@ -1,0 +1,17 @@
+{
+  "name": "m-builder-services",
+  "version": "0.0.1",
+	"description": "",
+	"main": "./src/services/index.js",
+	"private": true,
+  "installable": false,
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+
+  }
+}

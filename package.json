@@ -1,0 +1,16 @@
+{
+  "name": "mdc-issuer-summary",
+  "version": "4.0.26-1812182229",
+  "devDependencies": {
+    "lerna": "^2.9.0"
+  },
+  "scripts": {
+    "dev": "node packages/host/dev.js"
+  },
+  "nyc": {
+    "exclude": [
+      "**/widgets/lib/**",
+      "**/shared-widgets/lib/**"
+    ]
+  }
+}

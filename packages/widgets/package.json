@@ -1,0 +1,17 @@
+{
+  "name": "m-builder-widgets",
+  "version": "0.0.1",
+	"description": "",
+	"main": "./lib/src/index.js",
+	"private": true,
+  "installable": false,
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+
+  }
+}

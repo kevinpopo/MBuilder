@@ -1,0 +1,17 @@
+{
+  "name": "m-builder-host",
+  "version": "0.0.1",
+	"description": "",
+	"main": "./server.js",
+	"private": true,
+  "installable": false,
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+
+  }
+}

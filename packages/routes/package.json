@@ -1,0 +1,17 @@
+{
+  "name": "m-builder-routes",
+  "version": "0.0.1",
+	"description": "",
+	"main": "./src./index.js",
+	"private": true,
+  "installable": false,
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+
+  }
+}
