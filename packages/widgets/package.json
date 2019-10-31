@@ -3,10 +3,13 @@
   "version": "0.0.1",
 	"description": "",
 	"main": "./lib/src/index.js",
-	"private": true,
-  "installable": false,
+  "installable": true,
   "dependencies": {
-
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "redux": "3.7.2",
+    "react-redux": "5.0.6",
+    "prop-types": "15.7.2"
   },
   "devDependencies": {
 

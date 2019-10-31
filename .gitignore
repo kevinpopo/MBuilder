@@ -1,0 +1,9 @@
+*.log
+.build
+.vscode
+lib
+jsconfig.json
+npm-debug.log*
+node_modules
+public
+.tmp
